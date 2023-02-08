@@ -18,7 +18,7 @@ GDAug:
 
 ### Feature-level
 
-| Paper                                                        | Abbr.        | Publication| GDAug| Downstream Task| Code                                                         |
+| Paper                                                        | Abbr.        | Publication| GDAug| <span style="display:inline-block;width:220px">Downstream Task</span>| Code                                                         |
 | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Deep graph infomax                                           | DGI          | 2019 - ICLR                                                  | Feature Shuffling <br />Edge Rewiring                        | Node Classification                                          | [link](https://github.com/PetarV-/DGI)                       |
 | Spatio-temporal deep graph infomax                           | STDGI        | 2019 - ICLR-workshop                                         | Feature Shuffling                                            | Node Regression                                              |                                                              |
